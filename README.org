@@ -1,0 +1,10 @@
+#+title: Literature review of real time spatio-temporal models
+#+author: Zhenhua Wang
+
+-----
+* Table of Contents                                           :TOC:
+- [[#kalman-filter][Kalman Filter]]
+
+* Kalman Filter
+1. [[https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a5b0630c14b762e3e1f12d5097fe6b4211fee9b4][Space-time Kalman filter]]. Noel Cressie, and Christopher K. Wikle.
+   
